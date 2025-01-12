@@ -1,0 +1,47 @@
+<!--pages/tianqi/tianqi.wxml-->
+<view style="margin-left: 30%;">日期:{{date}}</view>
+
+<view>
+<view>降雨量：{{rain}}</view>
+<view>天气情况：{{tianqi}}</view>
+<view>星期：{{week}}</view>
+<view>更新时间：{{update}}</view>
+</view>
+
+<view>
+<image src="cloud://cloud1-6g9a3f9scbfee064.636c-cloud1-6g9a3f9scbfee064-1323726217/天气/温度计.png" style="width: 100rpx;height: 80rpx;"></image>
+<view>实时温度：{{tem}}℃</view>
+<view>最高温：{{tem1}}℃</view>
+<view>最低温：{{tem2}}℃</view>
+</view>
+
+<view>
+<image src="cloud://cloud1-6g9a3f9scbfee064.636c-cloud1-6g9a3f9scbfee064-1323726217/天气/空气质量.png" style="width: 100rpx;height: 80rpx;"></image>
+<view>空气质量等级：{{leve}}</view>
+<view>空气质量：{{zhiliang}}</view>
+</view>
+
+<view>
+<image src="cloud://cloud1-6g9a3f9scbfee064.636c-cloud1-6g9a3f9scbfee064-1323726217/天气/风速.png" style="width: 100rpx;height: 80rpx;"></image>
+<view>风力等级：{{weel}}</view>
+<view>风力：{{weel1}}</view>
+<view>风速：{{weel2}}</view>
+</view>
+
+<view>
+<image src="cloud://cloud1-6g9a3f9scbfee064.636c-cloud1-6g9a3f9scbfee064-1323726217/天气/我建议.png" style="width: 100rpx;height: 80rpx;"></image>
+<view>建议：{{sugg}}</view>
+</view>
+
+
+
+
+
+
+
+
+
+
+
+
+<button bindtap="test" type="primary" style="margin-top: 30rpx;">获取天气</button>

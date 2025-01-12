@@ -1,0 +1,11 @@
+<view class="search-bar">
+    <input class="search-input" placeholder="🔍请输入活动名称" bindinput="onInputChange" />
+  </view>
+  <view style="height:auto; width:auto; border-radius: 10rpx;"  wx:for="{{ activiteList}}" wx:key="index">
+    <view style="width: 95%; height: 250rpx;" class="picturecontainer" bindtap="navigateToDifferentPage" data-index="{{ index }}">
+    <image  src="{{item.activite.picture}}" style="width: 50%;height: 80%;"mode="scaleToFill" class="picture"  ></image>
+    <view class="textcontainer">
+    <text style="font-weight: bold;">{{item.activite.name}}</text>
+    </view>
+</view>
+</view>

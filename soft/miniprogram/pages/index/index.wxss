@@ -1,0 +1,31 @@
+/**index.wxss**/
+.videoleft{
+  margin-left:10rpx;
+  margin-bottom:10rpx;
+  margin-right:5rpx;
+}
+
+.videoright{
+  margin-left:5rpx;
+  margin-bottom:10rpx;
+  margin-right:10rpx;
+}
+
+.icon{
+  width: 120rpx;
+  height: 120rpx;
+}
+
+.icon-container {
+  flex-grow: 1;
+  margin-right: 8%;
+  margin-left: 9%;
+  margin-top: 50rpx;
+}
+
+.text{
+  font-weight: bold;
+}
+
+
+.videolist{margin-top:10rpx}

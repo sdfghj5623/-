@@ -1,0 +1,24 @@
+<view style="width: 100%;">
+<swiper class="banner" indicator-dots indicator-color="rgba(255,255,255,0.5)" indicator-active-color="#fff"
+ circular autoplay interval="3000" style="height: 400rpx;" >
+<swiper-item style="width: 100%;"class="lunbo">
+<image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/huodong/u=1663532177,1539993219&fm=253&fmt=auto&app=138&f=PNG.webp" mode="scaleToFill" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+<swiper-item>
+    <image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/huodong/u=624365772,301969641&fm=253&fmt=auto&app=138&f=JPEG.webp" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+</swiper>
+</view>
+<view style="margin:30rpx;"><text style="font-weight: bolder;font-size: x-large;">麦穗大逃亡</text></view>
+<view style="width: 95%; height: 800rpx;position: relative;" class="picturecontainer">
+  <text style="margin: 20rpx; position: relative; display: block;">简介：
+  1.收割操作示范：
+农场工作人员进行收割操作示范，介绍如何正确使用收割工具或机械。
+游客·可观摩和学习收割技术，为后续的实际操作做好准备。
+收费：免费
+
+2.提供收割用的传统农具及现代化收割机械，让游客亲自体验收割的工具和方式。
+工作人员会提供必要的指导和协助，确保安全。
+每收获10斤稻谷可+20积分
+收费：30元/人</text>
+</view>

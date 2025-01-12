@@ -1,0 +1,26 @@
+<image style="border-radius: 10rpx;width: 100%;"  src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/huodong/0f48b748782b4e87ba101558e59eaab3.gif"/>
+<view style="height:auto; width:auto; border-radius: 10rpx;" class=" placelist" >
+<view>我的积分：{{points}}</view>
+<navigator url="/pages/activites/activites">
+<view style="width: 95%;height: 270rpx;background-color: {{boxColor}}" bindtap="changeColor" class="picturecontainer" >
+    <image  src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/游戏/9683.jpg_wh300.jpg" style="width: 50%;height: 80%;"mode="scaleToFill" class="picture"  ></image>
+    <view class="textcontainer">
+    <text style="font-weight: bold;">特色活动</text>
+    </view>
+</view>
+</navigator>
+<view style="width: 95%;height: 270rpx;background-color: {{boxColor1}}" bindtap="changeColor1" class="picturecontainer">
+    <image  src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/游戏/t010fc8ef956d9f822b.jpg" style="width: 50%;height: 80%;"mode="scaleToFill" class="picture"  ></image>
+    <view class="textcontainer">
+    <text style="font-weight: bold;">乡村探险</text>
+    </view>
+</view>
+<navigator url="/pages/question/question">
+<view style="width: 95%;height: 270rpx;background-color: {{boxColor2}}" bindtap="changeColor2" class="picturecontainer">
+    <image  src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/游戏/5cda2f9f-3f55-470f-b5da-219c91608f6c2.gif" style="width: 50%;height: 80%;"mode="scaleToFill" class="picture"  ></image>
+    <view class="textcontainer">
+    <text style="font-weight: bold;">知识闯关</text>
+    </view>
+</view>
+</navigator>
+</view>

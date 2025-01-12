@@ -1,0 +1,20 @@
+<view style="width: 100%;">
+<swiper class="banner" indicator-dots indicator-color="rgba(255,255,255,0.5)" indicator-active-color="#fff"
+ circular autoplay interval="3000" style="height: 400rpx;" >
+<swiper-item style="width: 100%;"class="lunbo">
+<image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/33.png" mode="scaleToFill" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+<swiper-item>
+    <image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/32.png" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+<swiper-item>
+    <image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/33.png" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+</swiper>
+</view>
+<view style="margin:30rpx;"><text style="font-weight: bolder;font-size: x-large;">纹样</text></view>
+<view style="width: 95%; height: 100%;position: relative;" class="picturecontainer">
+  <text style="margin-top: 20rpx;margin-left: 20rpx;margin-right: 0rpx; position: relative; display: block;">畲族没有自己的文字，但形成了一些具有特殊含义的符文
+</text>
+  <!-- <view style="position: absolute; right: 10rpx; bottom: 20rpx;  padding: 5rpx; margin-bottom: 20rpx;">门票：110元/人次</view> -->
+</view>

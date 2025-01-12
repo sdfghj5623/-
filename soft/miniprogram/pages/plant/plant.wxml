@@ -1,0 +1,32 @@
+<view style="width: 100%;">
+<swiper class="banner" indicator-dots indicator-color="rgba(255,255,255,0.5)" indicator-active-color="#fff"
+ circular autoplay interval="3000" style="height: 400rpx;" >
+<swiper-item style="width: 100%;"class="lunbo">
+<image src=cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/huodong/u=1003780506,3117402034&fm=253&fmt=auto&app=138&f=JPEG.webp" mode="scaleToFill" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+<swiper-item>
+    <image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/huodong/u=2059740539,4161614758&fm=253&fmt=auto&app=120&f=JPEG.webp" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+<swiper-item>
+    <image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/huodong/u=794532845,1413970504&fm=253&fmt=auto&app=138&f=JPEG.webp" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+</swiper>
+</view>
+<view style="margin:30rpx;"><text style="font-weight: bolder;font-size: x-large;">蔬菜大乐园</text></view>
+<view style="width: 95%; height: 1200rpx;position: relative;" class="picturecontainer">
+  <text style="margin-top: 20rpx;margin-left: 20rpx;margin-right: 0rpx; position: relative; display: block;">简介：
+  1.蔬菜品种介绍：
+由农场主和专业园艺师介绍各类蔬菜的特点、种植方法和养护知识。
+了解对应的知识后，游客可自行选择想体验蔬菜品类，为后续的采摘和烹饪活动做好准备。
+
+2.蔬菜采摘体验：
+游客前往对应的蔬菜种植区，在这里游客将亲自体验采摘新鲜蔬菜的乐趣。
+还会有相应的奖励：
+每采摘五公斤蔬菜可+30积分
+收费：38元/人
+
+3.户外烹饪活动：
+游客前往指定的户外烹饪区，可由专业厨师进行指导或自行烹饪。
+食材可由游客自行采摘中的食材挑选，也可以在当地购买食材。
+收费：48元/人 (可用积分兑换)  </text>
+</view>

@@ -1,0 +1,35 @@
+<view>
+<image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/微信图片_20240301231359.png" mode="aspectFill"style="width: 100%;" ></image>
+</view>
+<view style="display: flex; justify-content: space-between;">
+  <view class="icon-container">
+    <image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/房屋.png" class="icon"></image>
+  <text class="text">民宿</text>
+  </view>
+
+  <view class="icon-container">  
+  <navigator url="/pages/tianqi/tianqi">
+    <image   src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/天气.png" class="icon"></image> 
+     </navigator>
+    <text class="text">天气</text>
+  </view>
+
+  <view class="icon-container">  
+
+    <image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/路线.png" class="icon" bindtap="handleImageTap"></image>
+
+    <text class="text">路线</text>
+  </view>
+</view>
+<view class="search-bar">
+    <input class="search-input" placeholder="🔍请输入地点" bindinput="onInputChange" />
+  </view>
+  <view style="height:auto; width:auto; border-radius: 10rpx;" class=" placelist" wx:for="{{ placeList}}" wx:key="index">
+    <view style="width: 95%; height: 300rpx;" class="picturecontainer" bindtap="navigateToDifferentPage" data-index="{{ index }}">
+    <image  src="{{item.place.picture}}" style="width: 50%;height: 80%;"mode="scaleToFill" class="picture"  ></image>
+    <view class="textcontainer">
+    <text style="font-weight: bold;">{{item.place.position}}</text>
+    <text style="font-size: xx-small;">{{item.place.time}}</text>
+    </view>
+</view>
+</view>

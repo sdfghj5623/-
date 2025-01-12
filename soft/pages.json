@@ -1,0 +1,469 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages		
+		{
+			"path" : "pages/log/log",
+			"style" : 
+			{
+				"navigationBarTitleText" : "登录",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/index/index",
+			"style" : 
+			{
+				"navigationBarTitleText" : "农友圈",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/register/register",
+			"style" : 
+			{
+				"navigationBarTitleText" : "注册",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/news/news",
+			"style" : 
+			{
+				"navigationBarTitleText" : "智慧课堂",
+				"enablePullDownRefresh" : true
+			}
+		},
+		{
+			"path" : "pages/searchpw/searchpw",
+			"style" : 
+			{
+				"navigationBarTitleText" : "找回密码",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/add/add",
+			"style" : 
+			{
+				"navigationBarTitleText" : "新增文章",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/tianjia/tianjia",
+			"style" : 
+			{
+				"navigationBarTitleText" : "新增文章",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/details/details",
+			"style" : 
+			{
+				"navigationBarTitleText" : "详情页",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/edit1/edit1",
+			"style" : 
+			{
+				"navigationBarTitleText" : "编辑",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/self/self",
+			"style" : 
+			{
+				"navigationBarTitleText" : "个人",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/shibie/shibie",
+			"style" : 
+			{
+				"navigationBarTitleText" : "识别分析",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/apple-black/apple-black",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/apple-grey/apple-grey",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/apple-healthy/apple-healthy",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/apple-xiu/apple-xiu",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/cheer-health/cheer-health",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/cheer-baifen/cheer-baifen",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/putao-lun/putao-lun",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/putao-healthy/putao-healthy",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/putao-white/putao-white",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/putao-he/putao-he",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/peach-health/peach-health",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/peach-jun/peach-jun",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/pepper-health/pepper-health",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/pepper-jun/pepper-jun",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/rice-white/rice-white",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/rice-hu/rice-hu",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/rice-he/rice-he",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/Squashleaf/Squashleaf",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/tomoat-xijun/tomoat-xijun",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/tomoat-chong/tomoat-chong",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/tomoat-ku/tomoat-ku",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/tudou-healthy/tudou-healthy",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/tudou-zao/tudou-zao",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/tudou-wan/tudou-wan",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},		{
+			"path" : "pages/tomoat-healthy/tomoat-healthy",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/tomoat-yellow/tomoat-yellow",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/tomoat-ban/tomoat-ban",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/tomoat-ye/tomoat-ye",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/tomoat-zao/tomoat-zao",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/tomoat-wan/tomoat-wan",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/wu/wu",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/user_return/user_return",
+			"style" : 
+			{
+				"navigationBarTitleText" : "反馈",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/lishi/lishi",
+			"style" : 
+			{
+				"navigationBarTitleText" : "反馈",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/detail/detail",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/webview/webview",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/user_info/user_info",
+			"style" : 
+			{
+				"navigationBarTitleText" : "个人资料",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/my_article/my_article",
+			"style" : 
+			{
+				"navigationBarTitleText" : "我的发文",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/my_like/my_like",
+			"style" : 
+			{
+				"navigationBarTitleText" : "我的点赞",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/repair-pw/repair-pw",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改密码",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/mobile/mobile",
+			"style" : 
+			{
+				"navigationBarTitleText" : "绑定手机号",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/return_data/return_data",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/lan/lan",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/user_comment_view/user_comment_view",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "农友圈",
+		"navigationBarBackgroundColor": "#0199FE",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#888",
+		"selectedColor": "#0199FE",
+		"list": [{
+				"pagePath": "pages/news/news",
+				"iconPath": "static/zhidao.png",
+				"selectedIconPath": "static/zhidao1.png",
+				"text": "在线课堂"
+			},
+			{
+				"pagePath": "pages/shibie/shibie",
+				"iconPath": "static/shibie.png",
+				"selectedIconPath": "static/shibie1.png",
+				"text": "识别分析"
+			}, {
+				"pagePath": "pages/index/index",
+				"text": "农友圈",
+				"iconPath": "static/images/farmers.png",
+				"selectedIconPath": "static/images/farmer.png"
+			}, {
+				"pagePath": "pages/self/self",
+				"text": "我的",
+				"iconPath": "static/images/user.png",
+				"selectedIconPath": "static/images/user-fill.png"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}

@@ -1,0 +1,19 @@
+<view style="width: 100%;">
+<swiper class="banner" indicator-dots indicator-color="rgba(255,255,255,0.5)" indicator-active-color="#fff"
+ circular autoplay interval="3000" style="height: 400rpx;" >
+<swiper-item style="width: 100%;"class="lunbo">
+<image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/hu2.png" mode="scaleToFill" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+<swiper-item>
+    <image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/hu3.png" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+</swiper>
+</view>
+<view style="margin:30rpx;"><text style="font-weight: bolder;font-size: x-large;">黄龙岩</text></view>
+<view style="width: 95%; height: 100%;position: relative;" class="picturecontainer">
+  <text style="margin: 20rpx; position: relative; display: block;">黄龙岩畲族风情旅游区是一个集自然景观与民族文化于一体的旅游胜地，位于广东省河源市东源县漳溪畲族乡高嶂山脉，距离河源市区大约59公里。这个旅游区占地约6平方公里，拥有丰富的景点和活动，包括高嶂山、狮型地水库以及黄龙岩洞、侧身岩、燕岩石等七个溶洞。此外，游客还可以体验畲族文化展览厅和畲族风情表演，深入了解畲族的历史和文化。
+黄龙岩旅游区的三大主题内容包括：畲族风情游、溶洞游和植物文化游。在畲族风情游中，游客可以观看畲族祖腾历史图展、畲族歌舞表演，参观畲族生产工具展览厅，并参与畲族特色的娱乐项目。溶洞游则以其“幽、深、奇、险”的特色著称，黄龙岩溶洞深达60米，内部石钟乳发育完整，形成了独特的自然景观。植物文化游则展示了百年板栗、国家一级保护植物等，让游客在自然中感受历史的沧桑。
+黄龙岩的溶洞是一个保存完好的天然石灰岩溶洞，洞内面积达到6000多平方米，游览路线大约550米。洞内温度适中，全年气温大约在22摄氏度左右，为游客提供了一个冬暖夏凉的游览环境。溶洞内的景色奇绝，各式石钟乳千姿百态，形成了一个仿佛海底世界般的梦幻景观。
+黄龙岩不仅是一个自然美景的宝库，更是体验和学习畲族文化的理想之地。</text>
+  <!-- <view style="position: absolute; right: 10rpx; bottom: 20rpx;  padding: 5rpx; margin-bottom: 20rpx;">门票：35元/人次</view> -->
+</view>

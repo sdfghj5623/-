@@ -1,0 +1,50 @@
+.icon{
+  width: 120rpx;
+  height: 120rpx;
+}
+
+.icon-container {
+  flex-grow: 1;
+  margin-right: 8%;
+  margin-left: 9%;
+  margin-top: 50rpx;
+}
+
+.text{
+  font-weight: bold;
+  color:#2d8263;
+  margin-left: 25rpx;
+}
+
+.search-input{
+  border: 1rpx solid rgb(0, 0, 0,0.3);
+  margin-top:50rpx;
+}
+
+.search-bar{
+    margin-left: 10%;
+    margin-right:10%;
+}
+
+.picturecontainer{
+  margin-top: 20rpx;
+  margin-left: 20rpx;
+  border-radius:10rpx;
+  background-color:rgb(225,225,225,0.7);
+  display: flex;
+}
+
+/* .picture{
+  border-radius:10rpx;
+  margin-top: 30rpx;
+  margin-left: 10rpx;
+}
+
+.textcontainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 30rpx;
+  margin-top: 60rpx;
+  margin-bottom: 50rpx;
+}  */

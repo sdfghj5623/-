@@ -1,0 +1,6 @@
+<!--pages/question1/question1.wxml-->
+<view><text>1.畲族妇女服饰以象征万事如意的（          ）独具特色，即在服饰和围裙上刺绣着各种彩色花纹，镶金丝银线;高高盘起的头髻扎着红头绳;全身佩挂叮叮作响的银器。</text>
+</view>
+<button class="button1" style="background-color:{{boxColor}}" bindtap="changeColor">A.龙王装</button>
+<button class="button2" style="background-color: {{boxColor1}}" bindtap="changeColor1">B.凤凰装</button>
+<button class="button3" style="background-color: {{boxColor2}}" bindtap="changeColor2">C.和服装</button>

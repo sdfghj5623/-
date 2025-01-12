@@ -1,0 +1,7 @@
+.picturecontainer{
+  margin-top: 20rpx;
+  margin-left: 20rpx;
+  border-radius:10rpx;
+  background-color:rgb(225,225,225,0.7);
+  display: flex;
+}

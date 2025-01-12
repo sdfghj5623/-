@@ -1,0 +1,19 @@
+<view style="width: 100%;">
+<swiper class="banner" indicator-dots indicator-color="rgba(255,255,255,0.5)" indicator-active-color="#fff"
+ circular autoplay interval="3000" style="height: 400rpx;" >
+<swiper-item style="width: 100%;"class="lunbo">
+<image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/图片14.png" mode="scaleToFill" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+<swiper-item>
+    <image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/图片15.png" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+<swiper-item>
+    <image src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/图片16.png" style="width: 100%;height: 100%;"></image>
+</swiper-item>
+</swiper>
+</view>
+<view style="margin:30rpx;"><text style="font-weight: bolder;font-size: x-large;">畲族美食</text></view>
+<view style="width: 95%; height: 100%;position: relative;" class="picturecontainer">
+  <text style="margin: 20rpx; position: relative; display: block;">日常主食以米为主，除米饭外，还有以稻米制作成的各种糕点，畬家常食的米饭有籼、粳、糯三种。番薯也是畲族农家主食之一。粉丝是畲家招待客人制作点心和菜肴的重要原料。畲族大都喜食热菜，一般家家都备有火锅，以便边煮边吃。除常见蔬菜外，豆腐也经常食用，农家招待客人最常见的佳肴是“豆腐酿”。肉食最多的是猪肉，一般多用来炒菜。竹笋差不多是畬家四季不断的蔬菜。饮茶是畲家日常必不可少的，大部分以自产的烘青茶为主，畬族的酒多以白酒和自家酿制的糯米酒为主。景宁山区还有一种绿曲酒。白酒有明烧和暗烧两种</text>
+  <!-- <view style="position: absolute; right: 10rpx; bottom: 20rpx;  padding: 5rpx; margin-bottom: 20rpx;">门票：220元/人次</view> -->
+</view>

@@ -1,0 +1,1 @@
+<button bindtap="takePhoto" type="primary" style="margin-top: 50%;">请打卡~</button>

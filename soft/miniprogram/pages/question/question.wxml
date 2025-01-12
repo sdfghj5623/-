@@ -1,0 +1,6 @@
+<!--pages/question/question.wxml-->
+<view style="width: 95%; height: 400rpx;position: relative;" class="picturecontainer">
+  <text style="margin: 20rpx; position: relative; display: block;">欢迎来到知识闯关！！！聪明的勇者，接下来你将会面临三道有关畲族文化的题目，没到题目有三个选项，只有一个是正确的。若你能选对正确的答案并完成相应的任务，你将会获得积分奖励。但答错也会扣除一定的积分。若闯关成功的话，还有大量宝藏哟~你准备好了吗？
+</text>
+</view>
+<button type="primary" style="border-radius: 20rpx;margin-top: 100rpx;" bindtap="ready">准备好啦~</button>

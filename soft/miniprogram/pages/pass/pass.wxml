@@ -1,0 +1,6 @@
+<view style="width: 100%;"><image  style="width: 100%;" src="cloud://nodio-8go2apw3520fc13b.6e6f-nodio-8go2apw3520fc13b-1323726217/huodong/t01d6ee010598dd9829.gif"></image></view>
+
+<view class="treasure-box" bindtap="openTreasureBox" style="margin-left: 40%;">
+  <image wx:if="{{!isOpen}}" class="box-image {{ isOpen ? 'open' : 'close' }}" src="{{ boxImageSrc }}"></image>
+</view>
+<button type="primary" style="margin-top: 60rpx;"bindtap="return">闯关成功</button>

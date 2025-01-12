@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/playcountryside/playcountryside",
+    "pages/activites/activites",
+    "pages/games/games",
+    "pages/meizhou/meizhou",
+    "pages/tongren/tongren",
+    "pages/libo/libo",
+    "pages/leishan/leishan",
+    "pages/plant/plant",
+    "pages/harvest/harvest",
+    "pages/pick/pick",
+    "pages/pig/pig",
+    "pages/tea/tea",
+    "pages/log/log",
+    "pages/question1/question1",
+    "pages/question2/question2",
+    "pages/question3/question3",
+    "pages/pass/pass",
+    "pages/question/question",
+    "pages/photo/photo",
+    "pages/photo1/photo1",
+    "pages/tianqi/tianqi",
+    "pages/caogao2/caogao2",
+    "pages/his/his",
+    "pages/aaa",
+    "pages/guilin/guilin",
+    "pages/wan/wan",
+    "pages/su/su",
+    "pages/hu/hu"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "非遗-畲族文化",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "lazyCodeLoading": "requiredComponents"
+}

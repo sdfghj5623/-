@@ -1,0 +1,17 @@
+.button1{
+
+    border-radius: 20rpx;
+    margin-top: 100rpx;
+    margin-bottom: 30rpx;
+}
+
+.button2{
+    border-radius: 20rpx;
+    margin: 30rpx;
+}
+
+.button3{
+
+    border-radius: 20rpx;
+    margin: 30rpx;
+}
