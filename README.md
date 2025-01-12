@@ -1,0 +1,3 @@
+inter 中的main是数据库和软件的接口代码，predict是模型的接口代码
+soft 是软件的代码
+sql是数据库的数据
